@@ -1,4 +1,4 @@
-package springcore;
+package spring.core;
 
 public class User {
     private int id;

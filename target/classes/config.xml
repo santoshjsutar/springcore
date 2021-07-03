@@ -4,7 +4,7 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
     <!-- bean definitions here -->
-    <bean id="user" class="springcore.User">
+    <bean id="user" class="spring.core.User">
         <property name="id">
             <value>1</value>
         </property>

@@ -1,4 +1,4 @@
-package springcore;
+package spring.core;
 
 public class Role {
 
